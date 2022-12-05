@@ -1,3 +1,4 @@
+[![MasterHead](https://media0.giphy.com/headers/tinganho/md7tvztxjaih.gif)](https://rohit123-rawat.io)
 <h1 align="center">Hi 👋, I'm Rishabh Singh Rawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
