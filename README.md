@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrishabhrawat" alt="imrishabhrawat" /></a> </p>
 
-- 🔭 I’m currently working on Intern @ColoredCow
+- 🔭 I’m currently working as ## **Intern @ColoredCow**
 
 - 🌱 I’m currently learning **Laravel**
 
