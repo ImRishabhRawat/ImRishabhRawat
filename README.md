@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrishabhrawat" alt="imrishabhrawat" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/ImRishabhRawat/portfolio)
+- 🔭 I’m currently working on Intern @ColoredCow
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ImRishabhRawat](https://github.com/ImRishabhRawat)
-
-- 💬 Ask me about **Html,Css,JAVA,Python,C**
+- 💬 Ask me about **Html,Css,JAVA,Python**
 
 - ⚡ Fun fact **I was born in childhood**
 
