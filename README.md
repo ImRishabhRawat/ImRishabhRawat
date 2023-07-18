@@ -3,7 +3,7 @@
 <h3 align="center">A proficient learner.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working  as Intern @ColoredCow <br>🌱 I’m currently learning Laravel<br>💬 Ask me about C, Python, Java, Html, Css, Js, Laravel<br>⚡ Fun fact There are 10 kinds of people in the world. Those who understand binary and those who don’t.
+🔭 I’m currently working  as Intern @ColoredCow <br>🌱 I’m currently learning Laravel and React<br>⚡ Fun fact There are 10 kinds of people in the world. Those who understand binary and those who don’t.
 
 
 ## 🌐 Socials:
